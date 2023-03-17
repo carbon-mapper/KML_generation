@@ -6,6 +6,8 @@
 # ...---... ...---... ...---... ...---... ...---... ...---... ...---...
 #requires: ortho-corrected reflectance & ortho report
 # ...---... ...---... ...---... ...---... ...---... ...---... ...---...
+# License: Apache 2.0 (http://www.apache.org/licenses/)
+
 from osgeo import gdal,ogr,osr
 import re
 import sys
